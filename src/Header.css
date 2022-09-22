@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header > img{
+    width: 120px;
+    height: 50px;
+    object-fit: contain;
+}
